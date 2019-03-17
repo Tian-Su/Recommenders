@@ -110,7 +110,7 @@ if __name__ == "__main__":
     target_col = train["quantity"]
     validation_split_perc = 0.3
     batch_size = 32
-    epochs = 5
+    epochs = 3
     embedding_size = 10
     mainpath = '/home/admin711/notebooks/tian/result/deep_beer_try_out'
 
